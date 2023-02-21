@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="50px"/></a>
+<a href="#"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="50px"/></a>
 
 <h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan</h1>
 <br />
@@ -44,11 +44,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<br/>
-
 ## 📫 Reach me:
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/sahan-samarakoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://medium.com/@sahan.samarakoon.4"><img src="https://img.icons8.com/sf-black-filled/64/null/medium-logo.png"></a>
+<a href = "https://www.linkedin.com/in/sahan-samarakoon/"><img src="https://img.icons8.com/fluency/48/null/linkedin.png"/></a>
+<a href="https://medium.com/@sahan.samarakoon.4"><img src="https://img.icons8.com/ios/50/null/medium-monogram--v1.png"></a>
