@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/></a>
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan</h1>
 <br />
@@ -23,13 +23,14 @@ Here are some ideas to get you started:
 ## 🙋‍♂️ About me
 
 - 🎓 I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
-- 👨 I am a Full Stack Developer
+- 👨 I hoping to be a Software Engineer wi
 - 💻 Former Trainee Software Engineer at CAKE Engineering.
   <br />
 
 ## 🚀 Languages and Tools
 
 <p align="left"> 
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -37,7 +38,6 @@ Here are some ideas to get you started:
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/material-ui.png"/> </a>
     <a href="" target="_blank"> <img src="https://img.icons8.com/color/48/000000/gatsbyjs.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
@@ -47,8 +47,17 @@ Here are some ideas to get you started:
 
 <br/>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?SahanSamarakoon=DenverCoder1)](https://git.io/streak-stats)
+
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanSamarakoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 ## 👯 Connect with me:
 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sahan-samarakoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://medium.com/@sahan.samarakoon.4/"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png"/></a>
