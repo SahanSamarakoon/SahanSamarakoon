@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SahanSamarakoon/SahanSamarakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,16 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif"/></a>
+<a href="#"><img width="100%" height="auto" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/></a>
 
-<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan</h1>
+<h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan</h1>
 <br />
 
 ## 🙋‍♂️ About me
 
 - 🎓 I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
-- 👨 I hoping to be a Software Engineer wi
-- 💻 Former Trainee Software Engineer at CAKE Engineering.
+- 👨 I hoping to be a Software Engineer.
+- 💻 Former Software Engineer - Intern at <a href="https://www.linkedin.com/company/69077525/">CAKE Engineering.</a>
   <br />
 
 ## 🚀 Languages and Tools
@@ -47,17 +45,13 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?SahanSamarakoon=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SahanSamarakoon)](https://git.io/streak-stats)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SahanSamarakoon&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
-## 👯 Connect with me:
+## 📫 Reach me:
 
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sahan-samarakoon/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://medium.com/@sahan.samarakoon.4/"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670098.png"/></a>
+<a target="https://medium.com/@sahan.samarakoon.4" img src="https://img.icons8.com/sf-black-filled/64/null/medium-logo.png"></a>
