@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 - 🎓 I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
 - 👨 I hoping to be a Software Engineer.
 - 💻 Former Software Engineer - Intern at <a href="https://www.linkedin.com/company/69077525/">CAKE Engineering.</a>
-  <br />
 
-## 🚀 Languages and Tools
+<br />
+
+## 🚀 Languages, Frameworks and Tools
 
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
