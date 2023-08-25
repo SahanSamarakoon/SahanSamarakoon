@@ -20,9 +20,10 @@ Here are some ideas to get you started:
 
 ## 🙋‍♂️ About me
 
-- 🎓 I'm a Computer Science and Engineering Undergraduate from University of Moratuwa.
-- 👨 I hoping to be a Software Engineer.
-- 💻 Former Software Engineer - Intern at <a href="https://www.linkedin.com/company/69077525/">CAKE Engineering.</a>
+- 🎓 I'm a Computer Science and Engineering Graduate from University of Moratuwa, Sri Lanka.
+- 👨 I' work as a Software Engineer.
+- 💻 Former Software Engineer at <a href="https://www.linkedin.com/company/69077525/">Mad Mobile SL (CAKE Engineering).</a>
+- 💻 Software Engineer at <a href="https://www.linkedin.com/company/enactor-limited/">Enactor SL</a>
 
 <br />
 
