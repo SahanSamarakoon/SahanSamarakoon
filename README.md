@@ -13,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="text-align: center;">
-    <a href="#">
-        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/>
-    </a>
+<div style="display: flex; justify-content: center;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/>
 </div>
 
 
