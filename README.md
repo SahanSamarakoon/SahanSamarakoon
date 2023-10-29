@@ -13,15 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#"><img align="center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/></a>
+<div style="text-align: center;">
+    <a href="#">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE2NTczM2ZiMWUxZjc1NzM0MWRjZGQzNTQ4NzlkZjljMDFlZTBjNCZjdD1z/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150px"/>
+    </a>
+</div>
+
 
 <h3 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahan</h1>
 <br />
 
 ## 🙋‍♂️ About me
 
-- 🎓 I'm a Computer Science and Engineering Graduate from University of Moratuwa, Sri Lanka.
-- 👨 I' work as a Software Engineer.
+- 🎓 I'm a Computer Science and Engineering graduate from University of Moratuwa, Sri Lanka.
+- 👨 I work as a Software Engineer.
 - 💻 Former Software Engineer at <a href="https://www.linkedin.com/company/69077525/">Mad Mobile SL (CAKE Engineering).</a>
 - 💻 Software Engineer at <a href="https://www.linkedin.com/company/enactor-limited/">Enactor SL</a>
 
